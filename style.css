@@ -30,7 +30,7 @@
     border-radius: 1%;
     height: auto;
     width: auto;
-    background-image: url('images/background.png');
+    background-image: url('background.png');
     background-size:100% 100%;
     }
     
@@ -42,7 +42,7 @@
     }
     
     .mountain {
-    background-image:url('images/mountain_view_1.jpg');
+    background-image:url('mountain_view_1.jpg');
     background-size:100% 100%;
     width:100%;
     padding-top:100px;
@@ -71,7 +71,7 @@
     table {
       border: 1px solid black;
       align-items:center;
-      background-image: url('images/background.png');
+      background-image: url('background.png');
       background-size: 100% 100%;
       margin:auto;
       width:100%;
@@ -105,7 +105,7 @@
     .column {
       padding-top:250px;
       padding-bottom:250px;
-      background-image: url('images/maunga_club_cabin.jpg');
+      background-image: url('maunga_club_cabin.jpg');
       background-size:100% 100%;
       margin:auto;
 
@@ -336,7 +336,7 @@ p{
 
 
 body{
-  background-image: url('images/baccc.png');
+  background-image: url('baccc.png');
   background-size: 100% 100%;
 }
 
